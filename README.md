@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dangno1
+- 👋 Hi, I’m Nguyen Dinh Dang
 - 👀 I'm interested in Front-End
 - 🌱 I'm currently studying at the University of Transport
 - 📫 How to reach me: https://www.linkedin.com/in/dang-nguyen-513a7b264/
